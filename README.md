@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently learning more about programming and Git.
+🤔 I’m looking for help with building my experience in Software Engineering.
+📫 How to reach me: nickjason.mamaoag@gmail.com
 
 <!--
 **nick-mama/nick-mama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
