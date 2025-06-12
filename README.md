@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning more about programming and Git.
+🌱 I’m currently learning more about web development.
 🤔 I’m looking for help with building my experience in Software Engineering.
 📫 How to reach me: nickjason.mamaoag@gmail.com
 
